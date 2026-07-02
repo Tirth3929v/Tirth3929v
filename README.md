@@ -106,6 +106,40 @@ I am a software developer focused on bridging robust web architectures with arti
 * Executed end-to-end data preprocessing and collaborated closely on integrating ML models into web platforms.
 
 ---
+---
+
+<h2 align="center">🏆 GitHub Achievement Progress</h2>
+
+<div align="center">
+
+| Badge | Status | Difficulty |
+| :--- | :---: | :---: |
+| **Quickdraw** | [ ] | Easy |
+| **Public Sponsor** | [ ] | Easy |
+| **Pull Shark** | [ ] | Medium |
+| **YOLO** | [ ] | Medium |
+| **Galaxy Brain** | [ ] | Medium |
+| **Pair Extraordinaire** | [ ] | Hard |
+| **Starstruck** | [ ] | Hard |
+
+</div>
+
+<details>
+  <summary><b>📚 Achievement Requirements</b></summary>
+  <br>
+
+  *   **Quickdraw:** Close an Issue or PR within 5 minutes of opening it.
+  *   **Public Sponsor:** Sponsor any GitHub user or organization.
+  *   **Pull Shark:** Merge 2 Pull Requests.
+  *   **YOLO:** Merge a PR without a code review.
+  *   **Galaxy Brain:** Receive 2 accepted answers in GitHub Discussions.
+  *   **Pair Extraordinaire:** Be a co-author on a merged Pull Request.
+  *   **Starstruck:** Receive 16 stars on a repository you own.
+  <br>
+</details>
+
+<br>
+---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
