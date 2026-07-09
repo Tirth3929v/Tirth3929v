@@ -1,80 +1,148 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Tirth+Patel!+👋;Aspiring+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00DBDE,45:FC00FF,100:7C3AED&text=Tirth%20Patel&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Builder&descAlignY=58&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=850&lines=Hi%2C+I'm+Tirth+Patel;Aspiring+AI+Engineer;Full-Stack+Developer;Building+AI-powered+web+systems;Turning+data+into+digital+experiences" alt="Typing SVG" />
+
+<br/>
+<br/>
+
+<!-- Socials -->
+<a href="https://www.linkedin.com/in/tirth-patel-ai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tirthpatel82032@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/TIRTH._.PTL_AI">
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Tirth3929v&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
 </div>
+
+---
+
+## About Me
+
+```yaml
+name: Tirth Patel
+role: Aspiring AI Engineer & Full-Stack Developer
+education: BCA Graduate - First Class with Distinction
+focus: AI-integrated systems, predictive ML, scalable web apps
+currently: Preparing for Master's studies in Poland
+mission: Transform complex data into useful, elegant digital products
+```
+
+<br/>
 
 <div align="center">
-  <em>Transforming complex data into scalable digital experiences.</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tirth3929v&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Campus Recruit</h3>
+      <div align="center">
+        <a href="https://github.com/Tirth3929v/Campus-Recruiting-AI-Assistant-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tirth3929v&repo=Campus-Recruiting-AI-Assistant-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FC00FF&text_color=FFFFFF" alt="Campus Recruit Repo" />
+        </a>
+        <p><strong>AI-driven placement and salary forecasting platform.</strong></p>
+        <p>MERN, Python, Angular 17, predictive analytics</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Grocery Management System</h3>
+      <div align="center">
+        <a href="https://github.com/Tirth3929v/Grocery-Management-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tirth3929v&repo=Grocery-Management-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FC00FF&text_color=FFFFFF" alt="Grocery Management Repo" />
+        </a>
+        <p><strong>E-commerce inventory and product workflow system.</strong></p>
+        <p>Full-stack architecture, automation, Vercel, Render</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Backend and Database" />
+
+### AI, Tools & Platforms
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vercel,postman,vscode&theme=dark" alt="AI Tools and Platforms" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tirth-patel-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tirthpatel82032@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/TIRTH._.PTL_AI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-00DBDE?style=for-the-badge&logo=googleanalytics&logoColor=black" alt="Predictive Analytics" />
+  <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-FC00FF?style=for-the-badge&logo=figma&logoColor=white" alt="Responsive UI" />
 </div>
 
 ---
 
-## ✦ Overview
-**BCA Graduate (First Class with Distinction).** Passionate about bridging full-stack web development with predictive ML models. Currently building AI-integrated systems while preparing for a Master’s in Poland.
-
----
-
-## 🚀 Projects
-*Select works—demonstrating full-stack engineering and ML implementation.*
-
-<details>
-<summary><b>Campus Recruit</b> | AI-driven placement & salary forecasting</summary>
-<br/>
-A predictive platform designed to streamline student placement preparation through data-driven insights. Built with MERN, Python, and Angular 17.
-<br/>
-<a href="https://github.com/Tirth3929v/Campus-Recruiting-AI-Assistant-System">🔗 View Repository</a>
-</details>
-
-<details>
-<summary><b>Grocery Management System</b> | E-commerce inventory architecture</summary>
-<br/>
-A robust, high-availability system for automated inventory workflows and product tracking. Deployed via Vercel/Render.
-<br/>
-<a href="https://github.com/Tirth3929v/Grocery-Management-System">🔗 View Repository</a>
-</details>
-
----
-
-## 🛠 Tech Stack
-*Core technologies I currently leverage to build production-ready software.*
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tirth3929v&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FC00FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Tirth3929v&theme=radical&hide_border=true&background=0D1117&ring=22D3EE&fire=FC00FF&currStreakLabel=22D3EE" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth3929v&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth3929v&bg_color=0D1117&color=FFFFFF&line=22D3EE&point=FC00FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🐍 Contribution Streak
+## Contribution Animation
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tirth3929v/Tirth3929v/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tirth3929v/Tirth3929v/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tirth3929v/Tirth3929v/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Tirth3929v/Tirth3929v/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirth3929v&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+
+### Let's Build Something Intelligent
+
+<p>
+  <em>Open to collaborations in AI, full-stack development, ML-powered platforms, and meaningful software ideas.</em>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,45:FC00FF,100:00DBDE&section=footer" />
+
 </div>
